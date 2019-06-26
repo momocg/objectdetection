@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>8_1560675696.jpg</filename>
+	<path>/Users/chengan/PycharmProjects/objectdective/images/test/8_1560675696.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chicken</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>261</ymin>
+			<xmax>759</xmax>
+			<ymax>600</ymax>
+		</bndbox>
+	</object>
+</annotation>

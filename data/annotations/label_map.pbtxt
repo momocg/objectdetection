@@ -1,0 +1,9 @@
+item {
+    id: 1
+    name: '红烧鸡腿'
+}
+
+item {
+    id: 2
+    name: 'patato'
+}
